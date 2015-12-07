@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>软件构造实验</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/mrli/frame/CreateTrainingPlanFrame.java</name>
+			<type>1</type>
+			<location>G:/王暠201320020321/CreateTrainingPlanFrame.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
