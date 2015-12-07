@@ -1,10 +1,6 @@
 package com.mrli.test;
 
-import java.util.List;
-
 import com.mrli.dboperator.JDBCDemo;
-import com.mrli.dboperator.JDBCDemoTrainingPlan;
-import com.mrli.interfaces.IColumns;
 import com.mrli.objects.MajorPlan;
 import com.mrli.objects.TrainingPlan;
 
